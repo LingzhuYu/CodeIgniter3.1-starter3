@@ -3,6 +3,11 @@
 ============================================
 Members: Injo, Lydia
 
+2016-11-13 15:58 - Lydia
+-Edited Crud functions add, edit, save, and cancel
+-Added mtce-errors view
+-Added replace-picture and show-errors function
+
 2016-11-10 15:58 - Injo
 -Added Crud functions edit, save, cancel
 -Added edit view, item view once logged in
