@@ -18,13 +18,13 @@ class Caboose {
 	// define the base framework components. 
 	// note that these are embedded in the project because they are obsolete bootstrap2
 	var $base = array(
-		'bootstrap' => array(
-			'css' => array('bootstrap.min.css','bootstrap-responsive.min.css','bootstrap-theme.min.css'),
-			'js' => 'bootstrap.min.js'
-		),
 		'jquery' => array(
 			'css' => '',
 			'js' => 'jquery-1.12.4.min.js'
+		),
+		'bootstrap' => array(
+			'css' => array('bootstrap.min.css','bootstrap-responsive.min.css','bootstrap-theme.min.css'),
+			'js' => 'bootstrap.min.js'
 		)
 	);
 
