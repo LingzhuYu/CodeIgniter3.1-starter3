@@ -3,6 +3,10 @@
 ============================================
 Members: Injo, Lydia
 
+2016-11-20 13:30 - Injo
+-Added new summary view, validation, checkout method
+-finished second half of the lab 8 instructions
+
 2016-11-17 15:20 - Lydia
 -Fixed Js loading problem
 -Added order model, modified shopping page, added check out and cancel button
